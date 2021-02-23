@@ -26,22 +26,5 @@ app.get("/subscribers", (req, res) => {
     return;
   });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+module.exports = app;
 module.exports = app;
