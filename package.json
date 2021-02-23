@@ -1,7 +1,6 @@
 {
   "name": "node-server-testing",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha '__tests__/*.js' --reporter mochawesome --recursive  --timeout 60000 --exit"
@@ -17,5 +16,15 @@
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "mocha": "^8.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahu829/Backend-Practice-Assignments---Get-Youtube-Subscribers.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sahu829/Backend-Practice-Assignments---Get-Youtube-Subscribers/issues"
+  },
+  "homepage": "https://github.com/sahu829/Backend-Practice-Assignments---Get-Youtube-Subscribers#readme",
+  "description": ""
 }
